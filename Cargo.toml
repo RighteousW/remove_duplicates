@@ -6,3 +6,4 @@ edition = "2021"
 [dependencies]
 rfd = "0.13"
 sha2 = "0.10"
+rayon = "1.7"
